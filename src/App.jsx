@@ -1,4 +1,4 @@
-import './App.module.scss';
+import './App.scss';
 import { Person } from './components/Person/Person';
 
 const misha = {
